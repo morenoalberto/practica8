@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MainWindow.cs">
+    <Files>
+      <File FileName="MainWindow.cs" Line="43" Column="17" />
+      <File FileName="c:\Users\Jonathan\Documents\Projects\Practica8\Practica8\MySQL.cs" Line="6" Column="20" />
+      <File FileName="Videojuegos.cs" Line="1" Column="1" />
+      <File FileName="VideojuegosAcciones.cs" Line="24" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
